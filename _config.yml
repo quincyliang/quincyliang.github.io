@@ -2,7 +2,7 @@ title: Blog
 description:
 author: Quincy Liang
 github: https://github.com/quincyliang
-about: I'm a researcher working in NLP.
+about: I'm a researcher working in NLP...
 disqus_shortname: https-quincyliang-github-io
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
@@ -37,7 +37,7 @@ urls:
       url: /projects/
 
 
-url: "https://github.com/quincyliang"
+url: "hhttps://quincyliang.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
