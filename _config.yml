@@ -37,7 +37,7 @@ urls:
       url: /projects/
 
 
-url: "hhttps://quincyliang.github.io"
+url: "https://quincyliang.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
