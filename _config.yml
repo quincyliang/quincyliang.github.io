@@ -1,9 +1,9 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
+title: Blog
+description:
+author: Quincy Liang
+github: https://github.com/quincyliang
+about: I'm a researcher working in NLP.
+disqus_shortname: Quincy Liang
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
@@ -21,11 +21,11 @@ social:
     - icon: fa-twitter
       link: "#"
     - icon: fa-linkedin
-      link: "#"
+      link: "#https://www.linkedin.com/in/quincy-guanqing-liang-99638935/"
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/quincyliang"
 
 share:
   twitter_username: github.io
@@ -39,7 +39,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://github.com/quincyliang"
 baseurl: ""
 paginate: 20
 per_page: 20
