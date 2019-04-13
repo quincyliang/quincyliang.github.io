@@ -126,7 +126,7 @@ Here's a summary of the points from Amazon review:
 
 
 
-Dealing with your boss in the first 30 days:
+**Dealing with your boss in the first 30 days:**
 
 - Be proactive, assume it's on your shoulders to build the relationship and get the support you need.
 - Schedule meetings to discuss **expectations, evaluations, and personal development**.
@@ -138,7 +138,7 @@ Dealing with your boss in the first 30 days:
 
 
 
-Strategy
+**Strategy**
 
 - Begin figuring out who you need to move off your team immediately, whose roles need to change, and who you need to evaluate further.
 - Think strategically. After your first 90 days you should be able to present a plan that is actionable.
@@ -146,7 +146,7 @@ Strategy
 
 
 
-Ask yourself feedback questions every week.
+**Ask yourself feedback questions every week.**
 
 - What isn't going well. Why? What can you change?
 - What are you least happy about. What can you change about it?
