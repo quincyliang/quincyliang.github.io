@@ -1,57 +1,37 @@
-title: Blog
-description:
-author: Quincy Liang
-github: https://github.com/quincyliang
-about: I'm a researcher working in NLP...
-disqus_shortname: https-quincyliang-github-io
-google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/avatar.jpg
-enableTags: true
-tagarray: []
 
-collections:
-  project:
-    output: true
-    permalink: /project/:path/
+exclude:
+  - "/vendor/"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "README.md"
+  - "LICENSE.md"
+  - "*.gemspec"
 
-social:
-#    - icon: fa-facebook
-#      link: "#"
-#    - icon: fa-twitter
-#      link: "#"
-    - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/quincy-guanqing-liang-99638935/"
-#    - icon: fa-stack-exchange
-#      link: "#"
-    - icon: fa-google
-      link: "https://scholar.google.com/citations?user=F6usvB4AAAAJ&hl=en"
-    - icon: fa-github
-      link: "https://github.com/quincyliang"
-
-share:
-  twitter_username: github.io
-  fb_appid: 1749788565247320
-
-urls:
-    - text: About Me
-      url: /about/
-    - text: My Projects
-      url: /projects/
+keep_files:
+  - "CNAME"
+  - ".git"
+  - ".gitignore"
 
 
-url: "https://quincyliang.github.io"
-baseurl: ""
-paginate: 20
-per_page: 20
-paginate_path: "/page/:num/"
+# Site settings
+title: Airspace
+subtitle: "A free HTML5 agency template"
+url: "http://ndrewtl.github.io" # the base hostname & protocol for your site
+# baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
+baseurl: "/airspace-jekyll"
+cover: "/assets/cover.png"
+logo: "/assets/logo.png"
+
+# Build settings
 markdown: kramdown
-gems:
-  - jekyll-paginate
-  - jekyll-gist
 
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  endings: all
-  ignore:
-    envs: ['development']
+# Google analytics
+# ga_tracking_id: "UA-XXXX-1"
+
+# Category descriptions (for archive pages)
+descriptions:
+  - cat: jekyll
+    desc: "Posts describing Jekyll setup techniques."
+
+  - cat: dummy
+    desc: "Just some placeholder posts, lorem ipsum and the rest."
