@@ -104,7 +104,7 @@ Are you following a boss or a leader?
 - Support their success: work around their weakness.
 - Take the high road: your "personal brand" is riding on it. 
 - Know their preference: adapt to them.
-- Don't be intiidated by a bully: stand tall, never cower!
+- Don't be intimidated by a bully: stand tall, never cower!
 - Be proactive: do your research before jumping ship.
 - The last suggestion: Resign from your job when your health is jeopardised. Life is more important than work. 
 
@@ -132,16 +132,14 @@ Here's a summary of the points from Amazon review:
 - Don't assume he will change. He has a style, foibles, accept them and work around then and move on. You can learn a lot from a bad boss, and you will likely have many.
 - Examine how others relate to your boss and how he responds.
 
-
-
 **Strategy**
+
 - Begin figuring out who you need to move off your team immediately, whose roles need to change, and who you need to evaluate further.
 - Think strategically. After your first 90 days you should be able to present a plan that is actionable.
 - **Evaluate the vision of the organization, its values, and use SWOT analysis.**
 
-
-
 **Ask yourself feedback questions every week.**
+
 - What isn't going well. Why? What can you change?
 - What are you least happy about. What can you change about it?
 - What meeting troubled you the most? ""
