@@ -7,7 +7,7 @@ categories: [management]
 
 ## 1. Industry Know How
 
-As an employee, your firs and foremost capability is **industry know how**, meaning that you have enough knowledge for this job,  market intelligence and industry networking. More importantly, you are able to keep up with the industry trend. 
+As an employee, your first and foremost capability is **industry know how**, meaning that you have enough knowledge for this job,  market intelligence and industry networking. More importantly, you are able to keep up with the industry trend. 
 
 ![nokia](https://raw.githubusercontent.com/quincyliang/quincyliang.github.io/master/static/img/_posts/nokia.png  "nokia")
 
