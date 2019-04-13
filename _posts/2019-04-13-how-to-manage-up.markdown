@@ -9,7 +9,7 @@ categories: [management]
 
 As an employee, your firs and foremost capability is "industry know how", meaning that you have enough knowledge for this job,  market intelligence and industry networking, and more importantly, you are able to keep up with the industry trend. 
 
-![nokia][https://github.com/quincyliang/quincyliang.github.io/blob/master/static/img/_posts/nokia.jpeg]
+![nokia][https://github.com/quincyliang/quincyliang.github.io/blob/master/static/img/_posts/nokia.png]
 
 
 ##2. Ability to Manage Up
