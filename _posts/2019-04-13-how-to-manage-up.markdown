@@ -110,12 +110,9 @@ Are you following a boss or a leader?
 
 
 
-
 ## 9. What to do in a new job
 
 Read the book [The First 90 Days](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612). There are some key points highlighted:
-
-
 
 Here's a summary of the points from Amazon review:
 - Establish your integrity in first 30 days.
@@ -126,10 +123,7 @@ Here's a summary of the points from Amazon review:
 - Ask same questions of all so no one treated different and you have a cross-section.
 - Look for "early wins," **low-hanging fruit** of improvements you can make or other things to boost morale.
 
-
-
 **Dealing with your boss in the first 30 days:**
-
 - Be proactive, assume it's on your shoulders to build the relationship and get the support you need.
 - Schedule meetings to discuss **expectations, evaluations, and personal development**.
 - Figure out what would give your boss "early wins." **Make his priorities your priorities**.
@@ -141,7 +135,6 @@ Here's a summary of the points from Amazon review:
 
 
 **Strategy**
-
 - Begin figuring out who you need to move off your team immediately, whose roles need to change, and who you need to evaluate further.
 - Think strategically. After your first 90 days you should be able to present a plan that is actionable.
 - **Evaluate the vision of the organization, its values, and use SWOT analysis.**
@@ -149,7 +142,6 @@ Here's a summary of the points from Amazon review:
 
 
 **Ask yourself feedback questions every week.**
-
 - What isn't going well. Why? What can you change?
 - What are you least happy about. What can you change about it?
 - What meeting troubled you the most? ""
