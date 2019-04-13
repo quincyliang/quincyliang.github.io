@@ -5,7 +5,7 @@ categories:
 excerpt: |
   As an employee, your first and foremost capability is **industry know how**, meaning that you have enough knowledge for this job,  market intelligence and industry networking. More importantly, you are able to keep up with the industry trend. 
 feature_text: |
-  ##Learn to Manage your Boss
+  ## Learn to Manage your Boss
 feature_image: "https://picsum.photos/2560/600?image=733"
 ---
 
