@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "How to manage up"
-date:   2019-04-13 01:18:23 +0800
+date:   2019-04-13 15:00:00 +0800
 categories: [management]
 ---
 
 
-### The key charateristics of a good employee
+### The key characteristics of a good employee
 
 1. Industry Know How
 2. Ability to Manage Up
