@@ -101,7 +101,10 @@ Are you following a boss or a leader?
 - Take the high road: your "personal brand" is riding on it. 
 - Know their preference: adapt to them.
 - Don't be intiidated by a bully: stand tall, never cower!
-- Be proactive: do your research before jumpin ship.
+- Be proactive: do your research before jumping ship.
+- The last suggestion: Resign from your job when your health is jeopardised. Life is more important than work. 
+
+
 
 
 ## 9. What to do in a new job
