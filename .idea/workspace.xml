@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d3537f3f-4726-4cc5-a93b-0aa22c9f5eeb" name="Default Changelist" comment="update post">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-04-13-how-to-manage-up.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-04-13-how-to-manage-up.markdown" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +31,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-13-how-to-manage-up.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="180">
-                <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <first_editor relative-caret-position="195">
+                <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -125,6 +126,24 @@
               <item name="quincyliang.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="quincyliang.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="category" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quincyliang.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quincyliang.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quincyliang.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quincyliang.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quincyliang.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quincyliang.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -276,7 +295,28 @@
       <option name="project" value="LOCAL" />
       <updated>1555139643585</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="update post">
+      <created>1555139949877</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1555139949877</updated>
+    </task>
+    <task id="LOCAL-00018" summary="update post">
+      <created>1555139991506</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1555139991506</updated>
+    </task>
+    <task id="LOCAL-00019" summary="update post">
+      <created>1555140080320</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1555140080320</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -524,8 +564,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-13-how-to-manage-up.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <first_editor relative-caret-position="195">
+            <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           </first_editor>
           <second_editor />
         </state>
