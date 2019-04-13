@@ -77,10 +77,10 @@ It is a big lie for a company to advocate work-life balance. The biggest reason 
 
 It is a sign for you to ask questions to boss. There are a few things to be reminded. 
 
-- Ask at the right timing.  Do not pick a time when your boss is not in a good mood. 
-- Ask in the right tone of voice. Do not act like you are challenging, but ask as a humble student. 
-- Ask questions with an answer in mind. Prepare your answer first, and let your boss to correct you, which makes you learn more fast. 
-- Ask why. It is of great importance to understand the underlying logic and thinking process of your boss.   If you understand your boss deeply, it makes your life much easier. 
+  - Ask at the right timing.  Do not pick a time when your boss is not in a good mood. 
+  - Ask in the right tone of voice. Do not act like you are challenging, but ask as a humble student. 
+  - Ask questions with an answer in mind. Prepare your answer first, and let your boss to correct you, which makes you learn more fast. 
+  - Ask why. It is of great importance to understand the underlying logic and thinking process of your boss.   If you understand your boss deeply, it makes your life much easier. 
 
 
 
