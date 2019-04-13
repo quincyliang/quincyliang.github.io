@@ -59,7 +59,7 @@ being able to keep your standard
 
 ## 7. Boss vs Leader
 
-![boss](https://raw.githubusercontent.com/quincyliang/quincyliang.github.io/master/static/img/_posts/boss_leader.jpg  "boss")
+![boss](https://raw.githubusercontent.com/quincyliang/quincyliang.github.io/master/static/img/_posts/boss_leader.png  "boss")
 
 ## 8. How to Manage a Bad Boss
 
