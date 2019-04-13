@@ -15,14 +15,16 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "#"
+#    - icon: fa-facebook
+#      link: "#"
+#    - icon: fa-twitter
+#      link: "#"
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/quincy-guanqing-liang-99638935/"
-    - icon: fa-stack-exchange
-      link: "#"
+#    - icon: fa-stack-exchange
+#      link: "#"
+    - icon: fa-google
+      link: "https://scholar.google.com/citations?user=F6usvB4AAAAJ&hl=en"
     - icon: fa-github
       link: "https://github.com/quincyliang"
 
