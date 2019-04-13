@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to manage up"
-date:   2019-04-13 15:00:00 +0800
+date:   2019-04-13 15:00:00 +0000
 categories: [management]
 ---
 
