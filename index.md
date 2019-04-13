@@ -1,7 +1,7 @@
 ---
 title: 
 feature_text: |
-feature_image: "https://picsum.photos/1300/400?image=903"
+feature_image: "https://raw.githubusercontent.com/quincyliang/quincyliang.github.io/master/assets/_posts/carina-nebula-2560x1600-wide-wallpapers.net.jpg"
 ---
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
