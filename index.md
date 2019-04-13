@@ -8,11 +8,11 @@ feature_image: "https://picsum.photos/1300/400?image=903"
 
 <!-- display the social media buttons in your README -->
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
+#[![alt text][1.1]][1]
+#[![alt text][2.1]][2]
 [![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
+#[![alt text][4.1]][4]
+#[![alt text][5.1]][5]
 [![alt text][6.1]][6]
 
 
@@ -43,9 +43,9 @@ feature_image: "https://picsum.photos/1300/400?image=903"
 
 [1]: http://www.twitter.com/carlsednaoui
 [2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
+[3]: https://scholar.google.com/citations?user=F6usvB4AAAAJ&hl=en
 [4]: http://carlsed.tumblr.com
 [5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
+[6]: https://github.com/quincyliang
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
