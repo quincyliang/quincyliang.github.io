@@ -11,7 +11,7 @@ feature_image: "https://picsum.photos/2560/600?image=733"
 
 As an employee, your first and foremost capability is **industry know how**, meaning that you have enough knowledge for this job,  market intelligence and industry networking. More importantly, you are able to keep up with the industry trend. 
 
-![nokia](https://raw.githubusercontent.com/quincyliang/quincyliang.github.io/master/static/img/_posts/nokia.png  "nokia")
+![nokia](https://raw.githubusercontent.com/quincyliang/quincyliang.github.io/master/assets/_posts/nokia.png  "nokia")
 
 The biggest mistake for a company or an employee is not doing things wrong, but not doing the right things. Be careful and always ask am I heading in the right direction. For example, the strategy in marking industry 10 years ago is to shoot advertisement video by a super star. Nowadays, it is a totally different story. It turns to digital marketing and marketing campaign is switched to online social media and KOLs.
 
