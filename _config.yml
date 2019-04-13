@@ -1,37 +1,67 @@
+title:            Balzac
+tagline:          A beautiful theme.
+description:      Describe your website.
+canonical: http://jekyll.gtat.me
 
-exclude:
-  - "/vendor/"
-  - "Gemfile"
-  - "Gemfile.lock"
-  - "README.md"
-  - "LICENSE.md"
-  - "*.gemspec"
+# Owner/author information
+owner:
+  name:           Cole Townsend
+  avatar:         avatar.png
+  bio:            "Aesthete & Athlete"
+  email:          cole@coletownsend.com
+  twitter:        twnsndco
+  github:         coletownsend
+  instagram:      ctrunsthis
+  dribbble:       coletownsend
+  disqus:         balzac
+  location:       "Buffalo, NY"
+  # Plug in your disqus shortname!
 
-keep_files:
-  - "CNAME"
-  - ".git"
-  - ".gitignore"
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
 
+# Open Graph customization
+opengraph:
+  locale:           en_US
 
-# Site settings
-title: Airspace
-subtitle: "A free HTML5 agency template"
-url: "http://ndrewtl.github.io" # the base hostname & protocol for your site
-# baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/airspace-jekyll"
-cover: "/assets/cover.png"
-logo: "/assets/logo.png"
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about
+  - title: Github
+    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+    external: true
+  - title: Cole Who?
+    url: http://coletownsend.com
+    external: true
 
-# Build settings
-markdown: kramdown
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/New_York
+future:      true
+highlighter: pygments
+markdown:    kramdown
 
-# Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
 
-# Category descriptions (for archive pages)
-descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+sass:
+    style: :compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
