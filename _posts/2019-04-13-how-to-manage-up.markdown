@@ -74,6 +74,10 @@ It is a big lie for a company to advocate work-life balance. The biggest reason 
 ## 5. Ask Questions - Stay Hungry, Stay Foolish
 
 ![steve](https://raw.githubusercontent.com/quincyliang/quincyliang.github.io/master/assets/_posts/steve.jpg  "steve")
+<div class="img-div-any-width" markdown="0">
+  <image src="/assets/_posts/steve.jpg"/, width="40%">
+  <br />
+</div>
 
 It is a sign for you to ask questions to boss. There are a few things to be reminded. 
 
@@ -82,10 +86,7 @@ It is a sign for you to ask questions to boss. There are a few things to be remi
   - Ask questions with an answer in mind. Prepare your answer first, and let your boss to correct you, which makes you learn more fast. 
   - Ask why. It is of great importance to understand the underlying logic and thinking process of your boss.   If you understand your boss deeply, it makes your life much easier. 
 
-<div class="img-div-any-width" markdown="0">
-  <image src="/assets/_posts/steve.jpg"/>
-  <br />
-</div>
+
 
 ## 6. Integrity 
 
