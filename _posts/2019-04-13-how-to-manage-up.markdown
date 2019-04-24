@@ -73,10 +73,7 @@ It is a big lie for a company to advocate work-life balance. The biggest reason 
 
 ## 5. Ask Questions - Stay Hungry, Stay Foolish
 
-<div class="img-div-any-width" markdown="0">
-  <image src="/assets/_posts/steve.jpg"/>
-  <br />
-</div>
+![steve](https://raw.githubusercontent.com/quincyliang/quincyliang.github.io/master/assets/_posts/steve.jpg  "steve")
 
 It is a sign for you to ask questions to boss. There are a few things to be reminded. 
 
