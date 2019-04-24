@@ -74,7 +74,7 @@ It is a big lie for a company to advocate work-life balance. The biggest reason 
 ## 5. Ask Questions - Stay Hungry, Stay Foolish
 
 <div class="img-div-any-width" markdown="0">
-  <image src="/assets/_posts/steve.jpg"/, width="100%">
+  <image src="/assets/_posts/steve.jpg"/>
   <br />
 </div>
 
