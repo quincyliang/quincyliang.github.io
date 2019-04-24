@@ -9,9 +9,15 @@ feature_image: "https://picsum.photos/2560/600?image=733"
 
 ## 1. 激荡四十年
 
-![40years](https://raw.githubusercontent.com/quincyliang/quincyliang.github.io/master/assets/_posts/book1.jpg  "40years"){:width="300px" }
 
+<div class="img-div-any-width" markdown="0">
+  <image src="/assets/_posts/book1.jpg"/, width="30%">
+  <br />
+</div>
+  
 ## 2. Bad Blood
 
-![bad blood](https://raw.githubusercontent.com/quincyliang/quincyliang.github.io/master/assets/_posts/bad.jpg  "bad blood"){:width="300px"}
-
+<div class="img-div-any-width" markdown="0">
+  <image src="/assets/_posts/bad.jpg"/, width="30%">
+  <br />
+</div>
