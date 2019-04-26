@@ -1,5 +1,5 @@
 ---
-title:  Study Plan for Open Source Machine Learning Project "scikit-learn" 
+title:  Study Plan for scikit-learn Project 
 categories:
 - Python
 excerpt: |
@@ -15,6 +15,7 @@ feature_image: "https://picsum.photos/2560/600?image=733"
 
 **Planning**
 
+{:class="table table-bordered"}
 | Study Section | Modules | Target |
 | ---- | ---- | ---- |
 | Single module at a time | linear model | understand the implementation, abstraction, dependency. |
