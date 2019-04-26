@@ -14,4 +14,3 @@ feature_image: "https://picsum.photos/2560/600?image=733"
 ## 2. Bad Blood
 
 ![bad blood](https://raw.githubusercontent.com/quincyliang/quincyliang.github.io/master/assets/_posts/bad.jpg  "bad blood"){:width="300px"}
-
