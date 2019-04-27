@@ -1,9 +1,7 @@
 ---
 title:  Study Plan for scikit-learn Project 
 categories:
-- Python 
-- Machine Learning
-
+- Python MachineLearning
 excerpt: |
 feature_image: "https://picsum.photos/2560/600?image=733"
 ---
