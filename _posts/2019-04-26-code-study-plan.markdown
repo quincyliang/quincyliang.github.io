@@ -1,7 +1,7 @@
 ---
 title:  Study Plan for scikit-learn Project 
 categories:
-- Python, Machine Learning
+- Machine Learning
 excerpt: |
 feature_image: "https://picsum.photos/2560/600?image=733"
 ---
@@ -18,14 +18,14 @@ feature_image: "https://picsum.photos/2560/600?image=733"
 
 | Study Section | Modules | Target |
 | ---- | ---- | ---- | 
-| Single module at a time | linear model | understand the implementation, abstraction, dependency. |
+| Single module at a time | [linear model](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html) | understand the implementation, abstraction, dependency. |
 |  | ensemble | |
 |  | preprocessing | |
 | | feature selection | |
 | | dataset | |
 | | pipeline | |
 | Optimization | Cython | |
-| Test |  | Study how to test a module in a rigorous way. |\
+| Test |  | Study how to test a module in a rigorous way. |
 
 
 To be continued...
