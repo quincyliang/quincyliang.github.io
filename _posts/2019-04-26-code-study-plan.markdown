@@ -30,7 +30,7 @@ feature_image: "https://picsum.photos/2560/600?image=733"
 
 ```python
 # more python code
-def abc():
+def test(a):
     pass
 
 ```
