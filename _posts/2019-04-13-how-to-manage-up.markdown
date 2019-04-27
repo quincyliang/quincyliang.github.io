@@ -1,5 +1,5 @@
 ---
-layout: prediction_post
+layout: post
 published: True
 title: How to Manage Up
 ---
