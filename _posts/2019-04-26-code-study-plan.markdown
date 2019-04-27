@@ -1,7 +1,9 @@
 ---
 title:  Study Plan for scikit-learn Project 
 categories:
-- Python
+- Python 
+- Machine Learning
+
 excerpt: |
 feature_image: "https://picsum.photos/2560/600?image=733"
 ---
@@ -26,6 +28,9 @@ feature_image: "https://picsum.photos/2560/600?image=733"
 | | pipeline | |
 | Optimization | Cython | |
 | Test |  | Study how to test a module in a rigorous way. |
+
+
+To be continued...
 
 
 
