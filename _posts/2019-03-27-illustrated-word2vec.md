@@ -1,6 +1,6 @@
 ---
 layout: prediction_post
-published: True
+published: False
 title: The Illustrated Word2vec
 ---
 
