@@ -1,0 +1,31 @@
+---
+title:  如何用一句話概括机器学习算法
+categories:
+- 机器学习
+excerpt: |
+feature_image: "https://picsum.photos/2560/600?image=733"
+---
+
+| Algorithm              | Wisdom               |
+| ---------------------- | -------------------- |
+| Ensemble Learning      | 三个臭皮匠顶个诸葛亮 |
+| Nearest Neigbhour      | 近朱者赤，近墨者黑   |
+| Boosting               | 取长补短             |
+| Support Vector Machine | 九段線               |
+| Meta learning          | 授人以鱼不如授人以渔 |
+| CNN                    | 窥一(多)斑而知全豹   |
+| Decision Tree          | 先主要分歧/後次分歧  |
+| Linear Regression      | 综合考虑             |
+| Stacking               | 各司其职             |
+| Auto-encoder           | 读书百遍，其义自现   |
+| AlphaGo Zero           | 左右互搏             |
+| GAN                    | 道高一尺 魔高一丈    |
+| Transfer Learning      | 触类旁通             |
+| Masked Language model  | 完形填空             |
+
+
+
+
+
+
+
